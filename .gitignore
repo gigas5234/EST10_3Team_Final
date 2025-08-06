@@ -1,0 +1,22 @@
+# Git 추적 제외 파일 목록
+
+# Environment variables
+.env
+.env.local
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Build outputs
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db 
